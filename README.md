@@ -1,4 +1,4 @@
-# AC Dimmer Project
+# Project Dimmer
 
 This project implements an **AC lamp dimmer** using an AVR microcontroller and TRIAC phase control.
 
