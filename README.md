@@ -87,7 +87,7 @@ Larger delay → dimmer lamp
 ## Project Schematic
 <p align="center">
   <a href="Circuito-Dimmer-V1.sim1">
-    <img src="https://img.shields.io/badge/circuitschematic-blue" alt="Circuit Schematic">
+    <img src="https://img.shields.io/badge/circuit schematic-blue" alt="Circuit Schematic">
   </a>
 </p> 
 
