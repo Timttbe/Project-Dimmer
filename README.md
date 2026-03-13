@@ -52,8 +52,6 @@ This project uses the following hardware components:
 - **12 VAC Incandescent Lamp**
 - **12 V Transformer**
 
----
-
 ### Project Schematic
 
 The circuit used in this project was designed using **SimulIDE**, an open-source real-time electronic circuit simulator that allows the interaction between microcontroller firmware and hardware components.
