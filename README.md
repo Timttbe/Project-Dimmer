@@ -68,11 +68,21 @@ Larger delay → dimmer lamp
 
 ---
 
-## Project Structure
+## Libraries
+
+This project uses two support libraries **provided by the course instructor**.
+
+**LCD Library**
+- Provides functions to control the **16x2 LCD display**
+- Handles LCD initialization, cursor positioning, and text printing
+- Used to show the current operating mode and brightness level
+
+**ADC Library**
+- Provides functions to read the **Analog-to-Digital Converter (ADC)** of the AVR
+- Used to read the potentiometer value
+- The ADC value is converted into brightness levels for the dimmer
+
 <p align="center">
-  <a href="main.c">
-    <img src="https://img.shields.io/badge/main-blue" alt="main">
-  </a>
   <a href="ADC.h">
     <img src="https://img.shields.io/badge/ADC-blue" alt="ADC">
   </a>
@@ -90,12 +100,6 @@ Larger delay → dimmer lamp
     <img src="https://img.shields.io/badge/circuit schematic-blue" alt="Circuit Schematic">
   </a>
 </p> 
-
----
-
-## Notes
-
-The **LCD** and **ADC** libraries used in this project were provided by the course instructor and were not developed by the author of this repository.
 
 ---
 
