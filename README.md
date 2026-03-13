@@ -52,19 +52,19 @@ This project uses the following hardware components:
 - **12 VAC Incandescent Lamp**
 - **12 V Transformer**
 
+---
+
+### Project Schematic
+
+The circuit used in this project was designed using **SimulIDE**, an open-source real-time electronic circuit simulator that allows the interaction between microcontroller firmware and hardware components.
+
+Using SimulIDE, it was possible to simulate the entire dimmer system, including the microcontroller, TRIAC control circuit, and user interface components.
+
 <p align="center">
   <a href="Circuit Schematic.png">
     <img src="Circuit Schematic.png" alt="Circuit Schematic" width="650">
   </a>
 </p>
-
----
-
-## Project Schematic
-
-The circuit used in this project was designed using **SimulIDE**, an open-source real-time electronic circuit simulator that allows the interaction between microcontroller firmware and hardware components.
-
-Using SimulIDE, it was possible to simulate the entire dimmer system, including the microcontroller, TRIAC control circuit, and user interface components.
 
 ---
 
