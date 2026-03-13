@@ -1,4 +1,4 @@
-# {AC DIMMER PROJECT}
+# AC Dimmer Project
 
 ## First Version:
 
