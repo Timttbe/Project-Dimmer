@@ -73,18 +73,23 @@ Larger delay → dimmer lamp
   <a href="main.c">
     <img src="https://img.shields.io/badge/main-blue" alt="main">
   </a>
-</p>
-<p align="center">
   <a href="ADC.h">
     <img src="https://img.shields.io/badge/ADC-blue" alt="ADC">
   </a>
-</p>
-<p align="center">
   <a href="LCD.h">
     <img src="https://img.shields.io/badge/LCD-blue" alt="LCD">
   </a>
-</p>  
+</p>
 <br>
+
+---
+
+## Project Schematic
+<p align="center">
+  <a href="Circuito-Dimmer-V1.sim1">
+    <img src="https://img.shields.io/badge/circuit schematic-blue" alt="Circuit Schematic">
+  </a>
+</p> 
 
 ---
 
