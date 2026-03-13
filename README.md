@@ -88,6 +88,15 @@ Larger delay → dimmer lamp
 
 ---
 
+## Project Schematic
+<p align="center">
+  <a href="Circuito-Dimmer-V1.sim1">
+    <img src="https://img.shields.io/badge/circuitschematic-blue" alt="Circuit Schematic">
+  </a>
+</p> 
+
+---
+
 ## Notes
 
 The **LCD** and **ADC** libraries used in this project were provided by the course instructor and were not developed by the author of this repository.
